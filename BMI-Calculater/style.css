@@ -1,0 +1,13 @@
+.calculate-container {
+    /* text-align: center; */
+    background-color: aquamarine;
+    width: 30%;
+    
+}
+
+.calculate {
+    background-color: green;
+    color: white;
+    font-size: 25px;
+    border-radius: 5%;
+}
